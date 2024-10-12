@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Silva</h1>
 <h3 align="center">A passionate student from México</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/da/54/f4da54b8c3b0c21ccb3e7785fc4a1e44.gif">
+<img align="right" alt="Coding" width="275" src="https://i.pinimg.com/originals/f4/da/54/f4da54b8c3b0c21ccb3e7785fc4a1e44.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psn-01&label=Profile%20views&color=0e75b6&style=flat" alt="psn-01" /> </p>
 
 - 🌱 I’m currently learning **Python and data handling**
