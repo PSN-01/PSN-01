@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PSN-01?tab=repositories](https://github.com/PSN-01?tab=repositories)
 
-- 📝 I regularly write articles on [https://contexto.udlap.mx/la-evolucion-y-roles-de-los-wide-receivers-y-running-backs-en-las-ofensivas-modernas-de-la-nfl/](https://contexto.udlap.mx/la-evolucion-y-roles-de-los-wide-receivers-y-running-backs-en-las-ofensivas-modernas-de-la-nfl/)
+- 📝 I regularly write articles on [https://contexto.udlap.mx](https://contexto.udlap.mx/la-evolucion-y-roles-de-los-wide-receivers-y-running-backs-en-las-ofensivas-modernas-de-la-nfl/)
 
 - 💬 Ask me about **Fantasy Football**
 
