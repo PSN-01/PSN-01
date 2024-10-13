@@ -13,11 +13,10 @@
 
 - 📝 I regularly write articles on [https://contexto.udlap.mx](https://contexto.udlap.mx/la-evolucion-y-roles-de-los-wide-receivers-y-running-backs-en-las-ofensivas-modernas-de-la-nfl/)
 
-- 💬 Ask me about **Fantasy Football**
+- 💬 Ask me about **Sports analytics, Dynasty Fantasy Football**
 
 - 📫 How to reach me **pablo.silvana@udlap.mx**
 
-- ⚡ Fun fact **I'm a great guitar player!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
