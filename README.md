@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and data handling**
 
-- 👯 I’m looking to collaborate on **Sport topics**
+- 👯 I’m looking to collaborate on **Sport topics, Data handling and AI**
 
 - 🤝 I’m looking for help with **Sport analytics and Data analytics**
 
