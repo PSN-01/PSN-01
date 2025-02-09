@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Pablo Silva</h1>
+<h1 align="center">Pablo Silva</h1>
 <h3 align="center">A passionate student from México</h3>
 
-<img align="right" alt="Coding" width="275" src="https://i.pinimg.com/originals/f4/da/54/f4da54b8c3b0c21ccb3e7785fc4a1e44.gif">
 
-- 🌱 I’m currently learning **Python and data handling**
+-  I’m currently learning **Python and data handling**
 
-- 👯 I’m looking to collaborate on **Sport topics, Data handling and AI**
+-  I’m looking to collaborate on **Sport topics, Data handling and AI**
 
-- 🤝 I’m looking for help with **Sport analytics and Data analytics**
+-  I’m looking for help with **Sport analytics and Data analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PSN-01?tab=repositories](https://github.com/PSN-01?tab=repositories)
+-  All of my projects are available at [https://github.com/PSN-01?tab=repositories](https://github.com/PSN-01?tab=repositories)
 
-- 📝 I regularly write articles on [https://contexto.udlap.mx](https://contexto.udlap.mx/la-evolucion-y-roles-de-los-wide-receivers-y-running-backs-en-las-ofensivas-modernas-de-la-nfl/)
+-  I regularly write articles on [https://contexto.udlap.mx](https://contexto.udlap.mx/la-evolucion-y-roles-de-los-wide-receivers-y-running-backs-en-las-ofensivas-modernas-de-la-nfl/)
 
-- 💬 Ask me about **Sports analytics and Dynasty Fantasy Football**
+-  Ask me about **Data science, math and Sports analytics and Dynasty Fantasy Football**
 
-- 📫 How to reach me **pablo.silvana@udlap.mx**
+-  How to reach me **pablo.silvana@udlap.mx**
 
 
 <h3 align="left">Connect with me:</h3>
