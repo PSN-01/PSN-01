@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from México</h3>
 
 
--  I’m currently learning **Python and data handling**
+-  I’m currently learning **Python, R and data handling**
 
 -  I’m looking to collaborate on **Sport topics, Data handling and AI**
 
